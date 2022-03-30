@@ -85,13 +85,13 @@
     
     }
         
-    /* A Media Query max-width: 640px */
+    
     @media screen and (max-width: 640px) {
      /* Resized content to fit 640px  */
      body {
             min-width: 640px;
         }
-    /* Resized main-content to fit 640px  */
+    
     #wrapper {
         position: absolute;
         left: 10%;
